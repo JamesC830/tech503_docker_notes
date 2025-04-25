@@ -17,3 +17,5 @@ A software deployment process that bundles an application’s code with all the 
 - ***Self-contained***: You can add multiple containers for different applications on a single machine. The container cluster uses computing resources from a shared operating system, but one container doesn't interfere with the operation of other containers. 
 - ***Fault tolerance***: A single faulty container doesn't affect the other containers. This increases the resilience and availability of the application.
 - ***Agility***: Software developers can troubleshoot and change the application code without interfering with the operating system, hardware, or other application services. They can shorten software release cycles and work on updates quickly with the container model.
+
+For an example of how to containerise an API see: "C:\Users\jcunn\sparta-api\sparta-api\README.md"
